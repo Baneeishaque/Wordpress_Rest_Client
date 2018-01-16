@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WordPress_REST_Client.iml" filepath="$PROJECT_DIR$/WordPress_REST_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidsupportv4jar/androidsupportv4jar.iml" filepath="$PROJECT_DIR$/androidsupportv4jar/androidsupportv4jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/croutonlibrary/croutonlibrary.iml" filepath="$PROJECT_DIR$/croutonlibrary/croutonlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerIndicator/viewPagerIndicator.iml" filepath="$PROJECT_DIR$/viewPagerIndicator/viewPagerIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordPressBlogApp/wordPressBlogApp.iml" filepath="$PROJECT_DIR$/wordPressBlogApp/wordPressBlogApp.iml" />
+    </modules>
+  </component>
+</project>

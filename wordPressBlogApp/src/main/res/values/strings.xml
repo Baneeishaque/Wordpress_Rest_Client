@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources translatable="false">
+    
+    <!--  no need to translate -->
+	<string name="app_name">WordPress Blog App</string>
+    <string name="app_version">1.5.1</string>
+    <string name="blogurl">http://demo.pixelartdev.com/</string>
+    <string name="api">api</string>
+    <string name="scheme">wpba</string>
+    <string name="pkg">com.pixelart.wpba</string>
+    <string name="playurl">market://details?id=com.pixelart.wpba</string>
+    <string name="gcm_senderId">871032584364</string>
+    <string name="include">comment_count,author,url,title,type,date,thumbnail,comment_status</string>
+    
+    <!-- The options to enable / disable functions -->
+    <bool name="admob">false</bool>
+    <bool name="showTimeAgo">true</bool>
+    <bool name="showChangelog">true</bool>
+    <bool name="showImageFragment">true</bool>
+    
+    <!-- Normal Banner -->
+    <string name="ad_unit_1">ca-app-pub-2584976074530882/5540935225</string>
+    <!-- Interstitial Ad -->
+    <string name="ad_unit_2">ca-app-pub-2584976074530882/5485609228</string>
+     
+</resources>
