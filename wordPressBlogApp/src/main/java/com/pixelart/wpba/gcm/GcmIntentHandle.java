@@ -4,7 +4,7 @@ import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 
 import com.pixelart.wpba.LatestPosts;
 import com.pixelart.wpba.PostDetails;
@@ -13,7 +13,7 @@ import com.pixelart.wpba.R;
 /**
  * This class Handles what to do when the user presses the NotificationFragment
  */
-public class GcmIntentHandle extends ActionBarActivity {
+public class GcmIntentHandle extends AppCompatActivity {
 	
 	
     @Override

@@ -18,6 +18,6 @@ android {
 }
 
 dependencies {
-    compile project(':androidsupportv4jar')
+//    compile project(':androidsupportv4jar')
     compile 'com.android.support:support-v4:27.0.2'
 }
