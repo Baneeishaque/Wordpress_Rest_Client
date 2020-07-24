@@ -1,4 +1,4 @@
 //include ':androidsupportv4jar'
-include ':croutonlibrary'
+//include ':croutonlibrary'
 //include ':viewPagerIndicator'
 include ':wordPressBlogApp'
